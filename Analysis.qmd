@@ -1,0 +1,9 @@
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+data = read_csv("all2022data.csv")
+```
+
